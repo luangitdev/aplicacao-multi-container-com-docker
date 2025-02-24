@@ -1,7 +1,3 @@
-Claro! Aqui está uma documentação detalhada e bem estruturada para o seu projeto de aplicação multi-container com Docker. Este modelo segue boas práticas para repositórios no GitHub, incluindo descrições claras, instruções passo a passo e exemplos.
-
----
-
 # **Aplicação Multi-Container com Docker**
 
 ![GitHub](https://img.shields.io/badge/Docker-Supported-blue) ![Python](https://img.shields.io/badge/Python-3.9-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
