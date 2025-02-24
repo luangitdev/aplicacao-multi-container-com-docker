@@ -1,6 +1,6 @@
-import psycopg2
+import psycopg2 # type: ignore
 
-from flask import Flask
+from flask import Flask # type: ignore
 
 app = Flask (__name__)
 
